@@ -12,7 +12,7 @@
    
  <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
+  <img src="https://(https://cdn.pixabay.com/photo/2019/03/12/20/27/work-4051777_960_720.jpg)" alt="Coder GIF" width="800" height="400">
   
 </p>
 
@@ -123,7 +123,7 @@
 <br>
 <div align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=newmoon&theme=react-dark" />
   </a>
 </div>
 
@@ -132,11 +132,11 @@
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
+      src="https://github-profile-trophy.vercel.app/?username=newmoon&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
 </div> -->
 
-<!-- ![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/newmooon/newmoon/blob/output/github-contribution-grid-snake.gif)
  -->
 
 
@@ -150,8 +150,8 @@
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
-	<a href="https://github.com/yaserdemet"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yaser-demet-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/newmooontr"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/hilal d.-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
@@ -160,6 +160,6 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaserdemet}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{newmoon}/count.svg" /></p> 
 <br>
 </div>
